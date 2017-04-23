@@ -5,11 +5,23 @@
   align-items: center;
 }
 
+.menu a {
+	color: #666;
+}
+
+.menu > * {
+	margin-top: 6px;
+}
+
+.menu a.menu-selected {
+	color: #fff;
+}
+
 .menu .material-icons {
   font-size: 36px;
 }
 
 .menu-avatar {
-  width: 60px;
-  border-radius: 60px;
+  width: 50px;
+  border-radius: 50px;
 }
