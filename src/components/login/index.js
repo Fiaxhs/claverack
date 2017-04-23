@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { getInstances } from '../../utils/instances'
 
 import logo from '../../img/logo.png'
-import './index.css'
+import './styles.css'
 
 class Login extends Component {
 	constructor (props) {

@@ -4,7 +4,7 @@ import { connect } from 'react-redux'
 import { translate } from 'react-i18next'
 import { withRouter } from 'react-router'
 
-import './index.css'
+import './styles.css'
 
 class Menu extends Component {
 

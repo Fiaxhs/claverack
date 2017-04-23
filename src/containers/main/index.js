@@ -7,7 +7,7 @@ import { translate } from 'react-i18next'
 import Timeline from '../timeline'
 import { saveLayout as saveLayoutAction } from '../../actions/config'
 
-import './index.css'
+import './styles.css'
 
 const components = {
 	timeline: Timeline
